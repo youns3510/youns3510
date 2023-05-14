@@ -30,11 +30,6 @@ You are always welcome to get in touch with me, and I would be pleased to cooper
 
 Thanks in advance for choosing me :)
 
- 📫 How to reach me ...
- - email:youns3510@gmail
- - phone:+201557946611 +201016770830
- - linkedin:linkedin.com/in/youns3510
- 
  
 
 Regards,
