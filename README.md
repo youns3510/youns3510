@@ -45,17 +45,6 @@ Infrastructure & Tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youns3510)
 [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:youns3510@gmail.com)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=your-username&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Contribution Streak" />
-</div>
-
-## 🏆 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=transparent)](https://github.com/your-username/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=transparent)](https://github.com/your-username/project2)
 
 <!---
 youns3510/youns3510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
